@@ -7,10 +7,7 @@
 
 👨‍💻 Fullstack Developer (Laravel, Vuejs) - Golfarma  
 <br/>
-<p align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheusnascimentoti99&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnascimentoti99&layout=compact&langs_count=7"/>
-</p>
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel, Vuejs, Quasar, Docker
