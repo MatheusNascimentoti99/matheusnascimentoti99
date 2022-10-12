@@ -9,7 +9,6 @@
 <br/>
 
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel, Vuejs, Quasar, Docker
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-nascimento-322a0b181/
