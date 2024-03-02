@@ -5,10 +5,10 @@
 
 🎓 Computer Engineer - UEFS 
 
-👨‍💻 Fullstack Developer (Laravel, Vuejs) - Golfarma  
+👨‍💻 Fullstack Developer - Conexa 
 <br/>
 
 
-- 🔭 I’m currently working on Laravel, Vuejs, Quasar, Docker
+- 🔭 I’m currently working on Laravel, Yii, Vuejs, Docker
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-nascimento-322a0b181/
