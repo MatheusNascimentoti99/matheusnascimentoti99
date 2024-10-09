@@ -5,10 +5,9 @@
 
 🎓 Computer Engineer - UEFS 
 
-👨‍💻 Fullstack Developer - Conexa 
+👨‍💻 Fullstack Developer 
 <br/>
 
 
-- 🔭 I’m currently working on Laravel, Yii, Vuejs, Docker
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Spring, Angular, Vuejs, Docker
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-nascimento-322a0b181/
