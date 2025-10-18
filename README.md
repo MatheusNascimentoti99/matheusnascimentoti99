@@ -9,5 +9,5 @@
 <br/>
 
 
-- 🔭 I’m currently working on Spring, Angular, Vuejs, Docker
-- 📫 How to reach me: https://www.linkedin.com/in/matheus-nascimento-322a0b181/
+- 🔭 I’m currently working with PHP, Javascript, Python e Docker
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/matheus-nascimento-322a0b181/" target="_blank">Linkedin</a>
