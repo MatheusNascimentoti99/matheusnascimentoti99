@@ -1,13 +1,23 @@
-<h1 align="center">Hi, I'm Matheus Nascimento</h1>
+<h1 align="center">👋 Hi there, I'm Matheus Nascimento</h1>
 
+<p align="center">
+  🎓 <b>Computer Engineer</b> – UEFS<br>
+  🎓 <b>Postgraduate in Software Engineering</b> – UFBA<br>
+  👨‍💻 <b>Fullstack Developer</b><br>
+  🇧🇷 <b>Federal Public Servant</b> at the <i>Ministério da Agricultura e Pecuária (MAPA)</i>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusnascimentoti99&theme=discord&row=1" alt="matheusnascimentoti99" /></a> </p>
+---
 
-🎓 Computer Engineer - UEFS 
+### 🚀 About Me
+- 🔭 Currently working with **PHP**, **JavaScript**, **Python**, and **Docker**  
+- 🌱 Constantly learning and improving my skills in **backend development** and **cloud technologies**
 
-👨‍💻 Fullstack Developer 
-<br/>
+---
 
-
-- 🔭 I’m currently working with PHP, Javascript, Python e Docker
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/matheus-nascimento-322a0b181/" target="_blank">Linkedin</a>
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-nascimento-322a0b181/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
